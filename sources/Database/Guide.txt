@@ -1,0 +1,2 @@
+DBMS: Dung sqlite manager cho de su dung + nhe. nhang`. ;))
+Link: https://addons.mozilla.org/vi/firefox/addon/sqlite-manager/
